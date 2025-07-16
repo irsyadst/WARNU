@@ -14,13 +14,13 @@
         <!-- Logo -->
         <ImageView
             android:id="@+id/logoImage"
-            android:layout_width="48dp"
-            android:layout_height="48dp"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/ic_logoipsum"
-            android:contentDescription="Logo"
             android:layout_marginTop="48dp"
-            android:layout_marginBottom="24dp" />
+            android:layout_marginBottom="24dp"
+            android:contentDescription="Logo"
+            android:src="@drawable/ic_logo" />
 
         <!-- Title -->
         <TextView
