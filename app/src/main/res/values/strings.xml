@@ -3,4 +3,38 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <!-- strings.xml -->
+    <string name="login_title">Masuk sebagai Seller</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register_text"> Register</string>
+    <string name="email_icon_desc">Ikon email</string>
+    <string name="password_icon_desc">Ikon password</string>
+    <string name="circle_icon_desc">Lingkaran hijau</string>
+    <string name="signup_seller_title">Daftar sebagai Seller</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="address">Alamat</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="register">Register</string>
+    <string name="desc_icon_person">Ikon orang</string>
+    <string name="desc_icon_email">Ikon email</string>
+    <string name="desc_icon_password">Ikon kunci</string>
+    <string name="desc_icon_location">Ikon lokasi</string>
+    <string name="register_link"> Register</string>
+    <string name="signup_title">Daftar sebagai Seller</string>
+    <string name="icon_person">Ikon Nama Pengguna</string>
+    <string name="icon_email">Ikon Email</string>
+    <string name="icon_password">Ikon Password</string>
+    <string name="icon_confirm_password">Ikon Konfirmasi Password</string>
+    <string name="icon_address">Ikon Alamat</string>
+
+
+
+
 </resources>
