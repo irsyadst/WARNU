@@ -33,8 +33,12 @@
     <string name="icon_password">Ikon Password</string>
     <string name="icon_confirm_password">Ikon Konfirmasi Password</string>
     <string name="icon_address">Ikon Alamat</string>
-
-
+    <string name="dashboard_seller">Dashboard Seller</string>
+    <string name="hamburger_menu_desc">Menu</string>
+    <string name="product_name">Kaos</string>
+    <string name="product_price">Rp 20000,00</string>
+    <string name="product_stock">Stok: 10</string>
+    <string name="tambah_produk">+ Tambah Produk</string>
 
 
 </resources>
