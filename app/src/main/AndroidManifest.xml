@@ -12,6 +12,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WARNU">
         <activity
+            android:name=".ui.pembeli.ProdukDetailPembeliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.pembeli.RiwayatPembeliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.pembeli.iwayatPembeliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.pembeli.KeranjangPembeliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.profile.EditProfilePembeliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.profile.ProfilePembeliActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.profile.ProfilSellerActivity"
             android:exported="false" />
         <activity
