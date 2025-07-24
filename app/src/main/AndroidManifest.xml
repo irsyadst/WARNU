@@ -12,12 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WARNU">
         <activity
-            android:name=".ui.profile.ProfilSellerActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

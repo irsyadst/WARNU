@@ -15,14 +15,14 @@
         android:padding="8dp">
 
         <ImageView
-            android:id="@+id/ivProduk"
+            android:id="@+id/ivProduct"
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
             tools:src="@android:color/darker_gray" />
 
         <TextView
-            android:id="@+id/tvNamaProduk"
+            android:id="@+id/tvProductName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
@@ -32,17 +32,17 @@
             tools:text="Kaos" />
 
         <TextView
-            android:id="@+id/tvHargaProduk"
+            android:id="@+id/tvProductPrice"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="14sp"
             tools:text="Rp 20000,00" />
 
         <TextView
-            android:id="@+id/tvStokProduk"
+            android:id="@+id/tvProductStock"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="12sp"
-            tools:text="Stok: 10" />
+            tools:text="Stock: 10" />
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>
